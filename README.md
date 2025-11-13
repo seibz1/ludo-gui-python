@@ -11,11 +11,6 @@ O projeto se destaca pelo uso de **Multithreading** para gerenciar a lógica do 
 
 ---
 
-## 📸 Previsão
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x400?text=Interface+do+Jogo+Ludo" alt="Ludo Board Screenshot">
-</p>
 
 ## ✨ Funcionalidades
 
